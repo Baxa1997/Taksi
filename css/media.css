@@ -1,0 +1,250 @@
+@media (max-width:1199.98px){
+ .cab h4 {
+     font-size: 30px !important;
+     width: 350px !important;
+     margin-top: 30px !important;
+ }  
+ form select {
+      display: block;
+  }  
+   form button {
+       width: 300px;
+   } 
+   .tariffs-item {
+       margin:40px  auto 0!important;
+   } 
+   .download a img {
+       margin-top: 20px !important;
+   }
+   .comments {
+       margin:0 auto !important;
+       text-align: center;
+   }
+   .taxi {
+      left:10% !important;
+      width: 60% !important;
+   }
+   .account {
+       margin-left: 0 !important;
+   }
+}
+
+
+
+@media (max-width:991.98px){
+
+  footer h4 {
+      margin-bottom: 40px !important;
+  }  
+  footer {
+      text-align: center;
+  } 
+  .comments {
+      margin: 0 auto !important;
+      text-align: center;
+      padding-right: 25px !important;
+  } 
+    .account {
+        margin-left: 0px !important;
+    }
+    .hand {
+        display: none;
+    }
+    .download {
+        text-align: center;
+        padding-bottom: 40px !important;
+    }
+    .download h3,
+    .download p {
+        margin:20px auto !important;
+    }
+    .tariffs-item {
+        margin-top: 50px !important;
+    }
+    form {
+        margin:40px auto 0!important;
+    }
+    form select {
+        display: block;
+    }
+    form button {
+        width: 150px;
+    }
+    .cab {
+        text-align: center;
+        padding:60px 0 !important;
+    }
+    .cab h4 {
+        margin:20px auto !important;
+        font-size: 30px !important;
+    }
+    .cab button {
+        margin-top: 20px !important;
+    }
+    .taxi {
+       width: 50%;
+    }
+    header {
+        padding-bottom: 350px !important;
+    }
+    header h3 {
+      margin-top: 70px !important;  
+    }
+}
+
+
+
+@media (max-width:767.98px){
+ .taxi {
+     display: none;
+ } 
+  header {
+      padding-bottom: 100px !important;
+  }  
+   header h3 a {
+       font-size: 50px !important;
+   } 
+   header h3 {
+       margin-top: 60px !important;
+   }
+   .cab {
+       padding:80px 0  !important;
+       text-align: center;
+   } 
+   .cab button {
+       margin:0px 0 40px;
+   }
+   .cab h4 {
+       font-size: 30px !important;
+       margin:20px 0 0;
+   }
+   .cab .row {
+       justify-content: center !important;
+   }
+   .cab form {
+       margin:0 auto !important;
+   }
+   .cab form select {
+       display: block;
+   }
+   .cab form button {
+       width: 100px;
+   }
+   .tariffs-item {
+       margin:40px auto 0!important;
+   }
+   .download {
+       text-align: center;
+       padding-bottom: 50px !important;
+   }
+   .download h3 {
+       max-width: none !important;
+   }
+   .download .col-xl-6 p {
+       margin: 0 auto 20px!important;
+   }
+    .hand {
+        display: none;
+    }
+    footer h4 {
+        margin-bottom: 30px !important;
+    }
+}
+
+
+
+@media (max-width:575.98px){
+ footer {
+     text-align: center;
+ } 
+  footer .row {
+      justify-content: center;
+  }   
+  footer h4 {
+      margin-bottom: 30px !important;
+  }
+    .hand {
+        display: none;
+    }
+    .download .col-xl-6 img {
+        padding-bottom: 50px;
+    }
+    .download .col-xl-6 p {
+        max-width: none !important;
+    }
+    form {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 30px;
+    }
+    form button {
+        width: 200px;
+    }
+    .taxi {
+        display: none;
+    }
+    .account {
+        margin-left:10px !important
+    }
+    .title {
+        font-size: 25px !important;
+    }
+    .subtitle {
+        font-size: 22px !important;
+        line-height: 15px;
+    }
+    .tariffs-item {
+        margin-top: 50px;
+    }
+    
+    .tarif-photo {
+        width: 100% !important;
+        top:-55px !important;
+    }
+    .cab {
+        text-align:center;
+        padding-top: 50px !important;
+    }
+    .cab h4 {
+        font-size: 24px !important;
+        width: 250px !important;
+        margin: 10px auto !important; 
+    }
+    .cab label {
+        font-size: 22px !important;
+        padding:10px !important; 
+        height: 50px !important;
+    }
+    .download {
+        text-align:center ;
+    }
+    header {
+        padding-bottom: 50px !important;
+    }
+    header h3 a {
+        font-size: 35px !important;
+        padding:0 5px;
+    }
+    header h3 {
+        margin-top: 30px !important;
+    }
+    header p {
+        font-size: 14px !important;
+    }
+    .tariffs-item p {
+        padding:0 10px !important;
+    }
+    .tariffs-item h3 {
+        padding:0 10px;
+    }
+    .cab form input {
+        padding:5px 0 0 15px  !important;
+        width: 250px !important;
+        border-radius: 5px;
+    }
+    .cab form input:focus {
+        border-bottom:2px solid #c03010;
+    }
+}
